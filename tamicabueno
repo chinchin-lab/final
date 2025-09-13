@@ -1,0 +1,38 @@
+<html>
+<head>
+<title> personal portfolio </title>
+</head> 
+<body background="keychainn.jpg"> 
+<font color=black>
+
+<tr><td> <center> <img src="chinchin.jpg"width=150px bordercolor="gray" border="5">
+
+<br><font size=10px><b>Tamica Shein C. Bueno</br></b> </font>
+<br> <i>Bachelor of Science in Information Technology </i></br>
+
+<hr>
+  <table border=5 bordercolor=pink cellpadding-10 cellspacing=15 width=100%>
+   <tr>
+      <th colspan=6> <font size=5px font color=blue> ABOUT ME </font>
+	  
+	    <br> STEM student from Our Lady of Fatima University and now taking BSIT at Manila Central University. Excited to use my knowledge and skills in the best way possible while gaining new experiences and improving myself along the way.
+		Aiming to work with different people, face new challenges, and make a positive difference for others.
+   </tr>
+  
+</table> 
+
+<tr>
+  <th colspan=6> <font size=5px font color=purple> PERSONAL INFORMATION </font>
+  <br>  Sex:Female
+  <br>  Age:17 Years old
+  <br>  Date of birth:September 23 2007
+</tr>
+
+<tr> 
+  <th colspan=2 rowspan=5> <a href=educbg.html> Educational Background</a>
+  <th colspan=2 rowspan=5> <a href=skills.html> Skills </a>
+  <th colspan=2 rowspan=5> <a href=extraact.html> Work Experiences/Extracurricular Activities </a>
+ </tr>
+ 
+
+</html>
